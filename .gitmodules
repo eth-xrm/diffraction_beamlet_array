@@ -1,0 +1,3 @@
+[submodule "rave-sim"]
+	path = rave-sim
+	url = https://github.com/eth-xrm/rave-sim.git
